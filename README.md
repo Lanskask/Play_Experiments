@@ -1,23 +1,9 @@
-# Play Experiments
+# play-scala-slick-example
 
-It's my repo where are a lot of different experiments with Play, Slick, ScalaJs, Http4 and maby some other
+[<img src="https://img.shields.io/travis/playframework/play-scala-slick-example.svg"/>](https://travis-ci.org/playframework/play-scala-slick-example)
 
-Play:
-- play-2.3-exp-1
-- full-site-1
-- scala-play-angular-seed
-- play-akka-angular-websocket
+This project demonstrates how to create a simple CRUD application with [Play](https://www.playframework.com/) and [Slick](http://slick.lightbend.com/doc/3.1.1/) using [Play-Slick](https://www.playframework.com/documentation/latest/PlaySlick).
 
-Slick:
-- hello-slick-3.0
-- my10-slick-exp1
-- simple-postgr-slick-example
-- slick-plainsql-3.1
-- slick-tutorial
+To see an example of a Play application using Slick outside of the application lifecycle, please see:
 
-ScalaJs:
-- js-scala-by-tutorial
-
-Other:
-- https4sexper
-- scalarta-web-app-1
+<https://github.com/playframework/play-scala-isolated-slick-example/>
